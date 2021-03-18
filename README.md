@@ -1,5 +1,3 @@
-### Hi there 👋, Bhoomika S
-#### Machine learning
  Hi, I’m Bhoomika S
  
 👀 I’m interested in Machine Learning
