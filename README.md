@@ -1,6 +1,5 @@
 ### Hi there 👋, Bhoomika S
 #### Machine learning
-![Machine learning](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
  Hi, I’m Bhoomika S
 👀 I’m interested in Machine Learning
